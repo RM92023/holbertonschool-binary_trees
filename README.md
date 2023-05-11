@@ -43,19 +43,6 @@ typedef struct binary_tree_s heap_t;
 | `16-binary_tree_is_perfect.c`    | `int binary_tree_is_perfect(const binary_tree_t *tree);`                                         |
 | `17-binary_tree_sibling.c`       | `binary_tree_t *binary_tree_sibling(binary_tree_t *node);`                                       |
 | `18-binary_tree_uncle.c`         | `binary_tree_t *binary_tree_uncle(binary_tree_t *node);`                                         |
-| `100-binary_trees_ancestor.c`    | `binary_tree_t *binary_trees_ancestor(const binary_tree_t *first, const binary_tree_t *second);` |
-| `101-binary_tree_levelorder.c`   | `void binary_tree_levelorder(const binary_tree_t *tree, void (*func)(int));`                     |
-| `102-binary_tree_is_complete.c`  | `int binary_tree_is_complete(const binary_tree_t *tree);`                                        |
-| `103-binary_tree_rotate_left.c`  | `binary_tree_t *binary_tree_rotate_left(binary_tree_t *tree);`                                   |
-| `104-binary_tree_rotate_right.c` | `binary_tree_t *binary_tree_rotate_right(binary_tree_t *tree);`                                  |
-| `110-binary_tree_is_bst.c`       | `int binary_tree_is_bst(const binary_tree_t *tree);`                                             |
-| `111-bst_insert.c`               | `bst_t *bst_insert(bst_t **tree, int value);`                                                    |
-| `112-array_to_bst.c`             | `bst_t *array_to_bst(int *array, size_t size);`                                                  |
-| `113-bst_search.c`               | `bst_t *bst_search(const bst_t *tree, int value);`                                               |
-| `114-bst_remove.c`               | `bst_t *bst_remove(bst_t *root, int value);`                                                     |
-| `120-binary_tree_is_avl.c`       | `int binary_tree_is_avl(const binary_tree_t *tree);`                                             |
-| `121-avl_insert.c`               | `avl_t *avl_insert(avl_t **tree, int value);`                                                    |
-| `122-array_to_avl.c`             | `avl_t *array_to_avl(int *array, size_t size);`                                                  |
 
 ## **Tasks**
 
@@ -123,4 +110,6 @@ typedef struct binary_tree_s heap_t;
 --- 
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=RM92023/holbertonschool-low_level_programming)
-Robinson Muñetón Jaramillo - <a href="https://github.com/RM92023" target="_blank"> @RM92023</a> ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=RM92023&show_icons=true)
+Robinson Muñetón Jaramillo - <a href="https://github.com/RM92023" target="_blank"> @RM92023</a>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=RM92023&show_icons=true)
